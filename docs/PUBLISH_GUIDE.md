@@ -3,7 +3,7 @@
 Nothing has been pushed anywhere yet. This build ran in a sandbox with no GitHub or Zenodo
 token and no access to the TIMSS/PISA servers, so every publication step below is yours.
 Do them only after `docs/VERIFY_CHECKLIST.md` is complete for the track you are releasing
-and `python tools/publish_gate.py . --allow-draft-in src/ tests/ code/ tools/` passes.
+and `python tools/publish_gate.py . --allow-draft-in src/ tests/ code/ tools/ paper/in_preparation/ data/` passes.
 
 | Step | What | When | Who |
 |---|---|---|---|

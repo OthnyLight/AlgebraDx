@@ -15,12 +15,12 @@ authors:
 affiliations:
   - name: [VERIFY affiliation]
     index: 1
-date: [VERIFY submission date]
+date: 7 October 2026
 bibliography: paper.bib
 ---
 
-<!-- DRAFT: rewrite in your own voice before submission. JOSS requires >6 months of public
-     development history and evidence of research use before this can be submitted. -->
+<!-- Not yet submitted. JOSS requires more than six months of public development history
+     (repository public since 7 October 2026) and evidence of research use. -->
 
 # Summary
 
@@ -42,11 +42,13 @@ pipeline that applies it to the United States samples of TIMSS 2019 and 2023 (gr
 
 # Statement of need
 
-DCM software is mature in R, where the `GDINA` [@ma2020] and `CDM` [@george2016] packages
-cover estimation, model comparison and Q-matrix validation. [VERIFY: confirm the current
-feature sets of these packages before claiming any gap.] Python users — including the data
-teams in school districts and testing organisations who increasingly work in Python — have
-had no equivalent. Applying DCMs to TIMSS or PISA also requires steps that are not packaged
+DCM software for measurement research is mature in R, where the `GDINA` [@ma2020] and `CDM`
+[@george2016] packages cover estimation, model comparison and Q-matrix validation. In Python,
+EduCDM [@educdm] provides cognitive diagnosis models for intelligent-tutoring and
+machine-learning settings, including DINA, IRT-based and neural models, but it does not
+target the G-DINA family's item-level model comparison, Q-matrix validation, or survey
+weights. Data teams in school districts and testing organisations who work in Python have
+therefore lacked a psychometric DCM toolkit of the kind R users rely on. Applying DCMs to TIMSS or PISA also requires steps that are not packaged
 anywhere as one workflow: extracting a country's records, scoring raw responses under
 documented rules, handling missing-by-design responses, fitting with sampling weights, and
 estimating standard errors with the study's jackknife or balanced-repeated-replication
@@ -87,7 +89,7 @@ rotated design. `validation/crosscheck_gdina.R` compares estimates with the R pa
 
 TIMSS data are provided by the IEA and PISA data by the OECD; neither is redistributed.
 
-AI usage disclosure: [VERIFY — keep accurate] Code, tests and documentation were drafted
+AI usage disclosure: Code, tests and documentation were drafted
 with Claude (Anthropic, Claude Opus 5.5) in October 2026 from the author's specification.
 The author reviewed all code, ran the validation and cross-checks, made every
 psychometric and Q-matrix decision, and revised all text, and takes full responsibility

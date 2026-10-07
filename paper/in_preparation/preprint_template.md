@@ -1,7 +1,7 @@
 ---
 title: "Which algebra skills are US eighth graders missing? Diagnostic classification of TIMSS responses with a twelve-skill readiness Q-matrix"
 author: "Othniel [VERIFY surname] ([VERIFY affiliation]; ORCID [VERIFY ORCID])"
-status: "DRAFT methods preprint — numbers come from paper/stats.json; rewrite in your own voice"
+status: "In preparation — sections 1–5 drafted; section 6 (US TIMSS results) awaits the real-data fits. Not for citation."
 ---
 
 <!-- Built by code/07_build_paper.py. Edit THIS template, never preprint.md. Every double-brace key is

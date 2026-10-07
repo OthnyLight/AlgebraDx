@@ -1,5 +1,5 @@
-# AlgebraDx attribute dictionary v0.1 — drafted for Othniel's ruling [VERIFY V1: names, definitions, count]
-# prerequisites = proposed hierarchy, applied only with --hierarchy [VERIFY V3]
+# AlgebraDx attribute dictionary v0.1 (2026-10-07)
+# prerequisites = proposed hierarchy, applied only with --hierarchy
 # timss_keywords drive the automatic pre-fill in code/03_draft_qmatrix.py; they are a starting point, not a coding decision
 # License: CC BY 4.0
 code,name,definition,prerequisites,timss_keywords,mastery_looks_like

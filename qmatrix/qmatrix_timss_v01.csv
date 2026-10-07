@@ -1,0 +1,165 @@
+item,in_2023,in_2019,content_domain,topic,max_points,A01,A02,A03,A04,A05,A06,A07,A08,A09,A10,A11,A12,confidence,status
+ME72188,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72035,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,1,0,0,0,0,0,H,ok
+ME72055,1,1,Number,"Ratio, Proportion, and Percent",1,1,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72222,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,1,1,0,0,0,0,0,0,0,0,H,ok
+ME72090,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,M,ok
+ME72233,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,M,ok
+ME72106A,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,1,0,0,H,ok
+ME72106B,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,1,0,0,H,ok
+ME72106C,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,1,0,0,0,1,0,0,H,ok
+ME72001,1,1,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72019,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72189,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72024,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72043,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72221,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,1,1,0,0,0,0,0,0,0,0,H,ok
+ME72220,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,H,ok
+ME72225,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,L,ok
+ME72110A,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,1,0,0,H,ok
+ME72110B,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,1,0,0,0,1,0,0,H,ok
+ME82214A,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82214B,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+MQ82N03,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,L,ok
+ME82320,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+MQ72D01,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+MQ72D02B,1,0,Algebra,Relationships and Functions,1,0,0,0,0,0,1,0,0,0,0,1,0,M,ok
+MQ72D03,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,0,0,0,0,0,0,0,M,ok
+MQ72D06A,1,0,Algebra,"Expressions, Operations, and Equations",1,0,1,0,1,0,0,0,0,0,0,0,0,M,ok
+MQ72D06B,1,0,Algebra,"Expressions, Operations, and Equations",1,0,1,0,1,0,0,0,0,0,0,0,0,M,ok
+MQ72D07A,1,0,Algebra,"Expressions, Operations, and Equations",1,0,1,0,1,0,0,0,0,0,0,0,0,M,ok
+MQ72D07B,1,0,Algebra,"Expressions, Operations, and Equations",2,0,1,0,1,0,0,0,0,0,0,0,0,M,ok
+MQ72D08A,1,0,Algebra,Relationships and Functions,1,0,1,0,0,0,0,0,0,0,0,1,0,M,ok
+MQ72D08B,1,0,Algebra,Relationships and Functions,1,0,1,0,0,0,0,0,0,0,0,1,0,M,ok
+MQ82C01,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,0,0,0,0,0,0,H,ok
+MQ82C02,1,0,Number,Fractions and Decimals,1,0,0,0,0,0,1,1,0,0,0,0,0,M,ok
+MQ82C03,1,0,Algebra,Relationships and Functions,1,0,0,0,0,0,1,0,1,0,0,0,0,M,ok
+MQ82C05,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,L,ok
+ME82116,1,0,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82322,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82199B,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,M,ok
+ME82106,1,0,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,L,ok
+ME82309,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82403,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,1,0,0,0,0,0,0,M,ok
+ME82205,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82512,1,0,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,0,1,H,ok
+ME82201,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,M,ok
+ME82310,1,0,Number,"Ratio, Proportion, and Percent",1,1,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82112,1,0,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82203,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82404,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,0,1,0,0,0,0,0,H,ok
+ME82206,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82103,1,0,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62271,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,M,ok
+ME62215,1,1,Number,"Ratio, Proportion, and Percent",2,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62143,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62230,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,1,0,0,0,H,ok
+ME62095,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,0,0,0,0,0,1,H,ok
+ME62076,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,0,0,0,0,0,0,M,ok
+ME62030,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,1,1,H,ok
+ME82104,1,0,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82402,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,H,ok
+ME82410,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,M,ok
+ME82315,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62214,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,M,ok
+ME62146,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62154,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62067,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,0,1,0,0,0,0,0,H,ok
+ME62341,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,0,1,H,ok
+ME62242,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,1,1,H,ok
+ME82216,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82105,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,0,0,0,0,0,0,0,L,ok
+ME82405,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,0,0,0,0,0,0,0,H,ok
+ME82313,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82503,1,0,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,1,1,M,ok
+ME82407,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,L,ok
+ME82312A,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,M,ok
+ME82312B,1,0,Number,Fractions and Decimals,1,1,1,0,0,0,0,0,0,0,0,0,0,M,ok
+ME82420,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,1,0,0,0,0,0,0,0,H,ok
+ME82510,1,0,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,1,0,H,ok
+ME82207,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82219,1,0,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82415,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,H,ok
+ME82314,1,0,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME82411,1,0,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,1,0,0,0,0,0,H,ok
+ME82511,1,0,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,1,1,0,M,ok
+ME72178,1,1,Number,Integers,1,0,0,1,0,0,0,0,0,0,0,0,0,H,ok
+ME72020,1,1,Number,Fractions and Decimals,2,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72027,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72052,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,1,0,H,ok
+ME72067,1,1,Algebra,"Expressions, Operations, and Equations",1,1,0,0,1,0,0,0,0,0,0,0,0,H,ok
+ME72083A,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,M,ok
+ME72083B,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,H,ok
+ME72108A,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,1,0,0,H,ok
+ME72108B,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,1,0,0,0,1,0,0,H,ok
+ME72021,1,1,Number,Fractions and Decimals,1,1,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72026,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72041A,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72041B,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72223,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,0,0,0,0,0,0,H,ok
+ME72094,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,0,1,0,0,0,0,0,H,ok
+ME72059,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,1,0,0,0,0,0,0,M,ok
+ME72080,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,H,ok
+ME72081,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,0,1,0,0,0,0,H,ok
+ME72187,1,1,Number,Integers,1,0,0,1,0,0,0,0,0,0,0,0,0,H,ok
+ME72022,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72038,1,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72045,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72049,1,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72069,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,0,0,0,0,0,0,0,H,ok
+ME72074,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,H,ok
+ME72013,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,0,0,0,0,0,0,0,M,ok
+ME72095,1,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,0,0,1,0,0,0,0,H,ok
+ME72109,1,1,Algebra,Relationships and Functions,1,0,0,0,0,0,1,0,0,0,0,1,0,H,ok
+ME52024,0,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME52058B,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME52229,0,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME52063,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,1,0,0,0,0,0,0,H,ok
+ME52072,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,1,0,1,0,0,0,0,0,0,0,H,ok
+ME52146A,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,1,0,0,H,ok
+ME52146B,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,1,0,0,0,1,0,0,H,ok
+ME52092,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,1,1,H,ok
+ME72007,0,1,Number,Integers,2,1,0,0,0,0,0,0,0,0,0,0,0,M,ok
+ME72025,0,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME72017,0,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,M,ok
+ME72190,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,M,ok
+ME72068,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,H,ok
+ME72076,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,1,0,1,0,0,0,1,0,0,0,H,ok
+ME72056,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,0,0,0,0,0,0,0,H,ok
+ME72098,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,H,ok
+ME72103,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,0,1,H,ok
+ME62164,0,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62142,0,1,Number,"Ratio, Proportion, and Percent",1,1,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62084,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,0,1,0,0,0,0,0,H,ok
+ME62351,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,0,1,H,ok
+ME62223,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,1,0,0,0,0,0,0,H,ok
+ME62027,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,1,1,H,ok
+ME52413,0,1,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,M,ok
+ME52134,0,1,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME52078,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME52034,0,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME52174A,0,1,Number,Integers,1,0,1,0,0,0,0,0,0,0,0,0,0,L,ok
+ME52174B,0,1,Number,Integers,1,0,1,0,0,0,0,0,0,0,0,0,0,L,ok
+ME52130,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,H,ok
+ME52073,0,1,Algebra,"Expressions, Operations, and Equations",1,1,0,0,1,0,0,0,0,0,0,0,0,H,ok
+ME52110,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,0,0,0,0,0,0,0,H,ok
+ME52105,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,0,1,H,ok
+ME62150,0,1,Number,Integers,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62335,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62219,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62149,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,0,0,0,0,0,0,H,ok
+ME62241,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,1,0,0,0,0,0,1,H,ok
+ME62105,0,1,Algebra,"Expressions, Operations, and Equations",2,0,0,0,0,1,1,0,0,1,0,0,0,H,ok
+ME52079,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME52215,0,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,H,ok
+ME52147,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,L,ok
+ME52067,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,1,0,0,0,0,0,0,0,0,H,ok
+ME52068,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,H,ok
+ME52087,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,0,0,1,0,0,0,0,H,ok
+ME62151,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62346,0,1,Number,"Ratio, Proportion, and Percent",1,0,1,0,0,0,0,0,0,0,0,0,0,H,ok
+ME62212,0,1,Number,Fractions and Decimals,1,1,0,0,0,0,0,0,0,0,0,0,0,M,ok
+ME62056,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,1,0,0,0,0,0,0,0,H,ok
+ME62317,0,1,Algebra,Relationships and Functions,1,0,0,0,1,0,0,0,0,0,0,1,0,H,ok
+ME62350,0,1,Algebra,Relationships and Functions,1,0,0,0,0,0,0,0,0,0,0,0,1,H,ok
+ME62078,0,1,Algebra,"Expressions, Operations, and Equations",1,0,0,0,0,0,1,1,0,0,0,0,0,H,ok

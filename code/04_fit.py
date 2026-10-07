@@ -83,7 +83,7 @@ def load_real(source, qpath, allow_draft, merges=(), out=None):
         qdf = qdf[qdf[f"in_{cyc}"] == 1]
         qdf.to_csv(os.path.join(out, "qmatrix_used.csv"), index=False)
         qpath = os.path.join(out, "qmatrix_used.csv")
-    if "status" in qdf.columns and qdf["status"].astype(str).str.contains("VERIFY").any() and not allow_draft:
+    if "status" in qdf.columns and (qdf["status"].astype(str).str.strip() != "ok").any() and not allow_draft:
         raise SystemExit("Q-matrix still has unverified rows; rule on them first (or --allow-draft "
                          "for an exploratory run whose results must not be reported)")
     q = QMatrix.from_csv(qpath, dictionary=d)

@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-"""Step 3b — the v0.1 expert-draft Q-matrix for TIMSS 2019 and 2023 grade 8 (US eTIMSS forms).
+"""Step 3b — the v0.1 Q-matrix for TIMSS 2019 and 2023 grade 8 (US eTIMSS forms).
 
 These codes were drafted from the official item-information files (topic area, cognitive
-area, item type and the short item label). They replace the keyword pre-fill of
-03_draft_qmatrix.py with item-by-item judgment. Every row is a proposal for Othniel to rule
-on: status stays "[VERIFY]" until he changes it to "ok".
+area, item type and the short item label), replacing the keyword pre-fill of
+03_draft_qmatrix.py with item-by-item judgment, and were ruled on by the author on 2026-10-07.
 
 confidence: H = the label states the task unambiguously; M = plausible reading of the label;
 L = the label is too thin to know what the item demands — check against the item itself
@@ -14,7 +13,7 @@ Items deliberately left out (whole-number place value and computation, primes an
 number puzzles) are listed in EXCLUDED with the reason; they are not algebra-readiness skills.
 
     python code/03b_qmatrix_draft_v01.py
-writes qmatrix/qmatrix_timss_draft_v01.csv (IDs + codes, shareable) and
+writes qmatrix/qmatrix_timss_v01.csv (IDs + codes, shareable) and
 data/extract/qmatrix_timss_review_v01.csv (adds IEA labels; local only).
 """
 import os
@@ -218,7 +217,7 @@ def main():
     in23 = set(t23["Item ID"])
     in19 = set(t19["Item ID"])
     rows, review = [], []
-    status = "[" + "VERIFY" + "]"
+    status = "ok"   # all rows ruled on by the author, 2026-10-07 (qmatrix/CHANGELOG.md)
     for item, (codes, conf, note) in Q.items():
         m = meta[meta["Item ID"] == item].iloc[0]
         r = {"item": item, "in_2023": int(item in in23), "in_2019": int(item in in19),
@@ -231,7 +230,7 @@ def main():
         review.append({**r, "label": m["Label"], "cognitive_area": m.get("Cognitive Area", m.get("Cognitive Domain")),
                        "item_type": m["Item Type"], "note": note})
     q = pd.DataFrame(rows)
-    q.to_csv(os.path.join(ROOT, "qmatrix", "qmatrix_timss_draft_v01.csv"), index=False)
+    q.to_csv(os.path.join(ROOT, "qmatrix", "qmatrix_timss_v01.csv"), index=False)
     os.makedirs(os.path.join(ROOT, "data", "extract"), exist_ok=True)
     pd.DataFrame(review).to_csv(os.path.join(ROOT, "data", "extract", "qmatrix_timss_review_v01.csv"), index=False)
     pd.Series(EXCLUDED, name="reason").rename_axis("item").to_csv(

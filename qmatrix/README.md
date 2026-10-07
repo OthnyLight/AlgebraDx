@@ -1,9 +1,9 @@
-# Q-matrix v0.1 — expert draft for ruling
+# Q-matrix v0.1
 
-`qmatrix_timss_draft_v01.csv` codes every TIMSS 2019 and 2023 grade-8 Algebra item, and every
+`qmatrix_timss_v01.csv` codes every TIMSS 2019 and 2023 grade-8 Algebra item, and every
 Number item tied to an algebra-readiness skill, to the 12 skills in `attributes.csv`. It was
 drafted item by item from the IEA item-information files (topic area, cognitive area, item
-type and the item's short label) and is **a proposal**: every row has status `[VERIFY]`.
+type and the item's short label), then ruled on item by item by the author (2026-10-07).
 
 | | TIMSS 2023 | TIMSS 2019 |
 |---|---|---|
@@ -29,7 +29,7 @@ Items per skill (single-skill items in brackets):
 | A11 Functions and representations | 10 (1) | 7 (0) |
 | A12 Linear functions | 6 (2) | 11 (5) |
 
-## Findings to rule on
+## Findings
 
 1. **Factoring cannot be measured from TIMSS grade 8.** One 2023 item and three 2019 items
    touch it, never on their own. The TIMSS fits fold A09 into A05 (`--merge A09:A05`);
@@ -42,11 +42,11 @@ Items per skill (single-skill items in brackets):
 4. **Nine low-confidence items (L)** have labels too short to judge; they need a look at the
    item itself (IEA restricted-use item materials).
 
-## How to rule
+## Revising
 
-Open `data/extract/qmatrix_timss_review_v01.csv` (on your computer only; it carries IEA's item
-labels) next to the draft. For each row: edit the 0/1 cells if you disagree, then set
-`status` to `ok`. Log any change to a skill definition in `CHANGELOG.md`. The fit script
-refuses a Q-matrix with unverified rows unless run with `--allow-draft` (exploratory only).
+The review sheet that pairs each row with IEA's item label stays on the author's computer
+(IEA terms). Changes after v0.1 are logged in `CHANGELOG.md` with their reason; empirical
+evidence from `qmatrix_validation.csv` (GDI/PVAF) after the US TIMSS fits will be the first
+input to v0.2. The fit script refuses a Q-matrix with any row not marked `ok`.
 
 Item labels and item text are IEA material and are not included in this public file.

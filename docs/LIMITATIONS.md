@@ -1,10 +1,11 @@
 # Limitations
 
-Read before using or citing anything from this repository. [VERIFY V8: rewrite in your own voice]
+Read before using or citing anything from this repository.
 
 1. **The Q-matrix is a hypothesis.** Every result depends on which skills each item is
-   coded to require. The v0.1 Q-matrix is drafted (keyword pre-fill plus expert review)
-   and has not been independently coded by a second rater. Inter-rater agreement and the
+   coded to require. The v0.1 Q-matrix was coded item by item and ruled on by one
+   expert; it has not yet been coded by a second rater or checked against the US TIMSS data
+   (GDI/PVAF validation runs with the real-data fits). Inter-rater agreement and the
    GDI/PVAF validation (`qmatrix_validation.csv`) are evidence, not proof.
 
 2. **TIMSS is a population survey, not a classroom test.** TIMSS and PISA rotate items

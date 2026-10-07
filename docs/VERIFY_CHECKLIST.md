@@ -38,7 +38,7 @@ history before submission:
 - [ ] Five items' p-values from `*_scoring_log.csv` match the US percent-correct in the TIMSS item almanacs
 
 ## D. Q-matrix and models (V2, V7)
-- [ ] Every row of `qmatrix/qmatrix_timss_draft_v01.csv` ruled on (see `qmatrix/README.md`), status changed from the VERIFY tag to `ok`; the 9 low-confidence items checked against the items themselves
+- [ ] Every row of `qmatrix/qmatrix_timss_v01.csv` ruled on (see `qmatrix/README.md`), status changed from the VERIFY tag to `ok`; the 9 low-confidence items checked against the items themselves
 - [ ] Decide on A09 (factoring): merge into A05 for TIMSS (1 item in 2023), keep for district tests
 - [ ] The 17 excluded items in `qmatrix/excluded_items_v01.csv`: agree they are outside algebra readiness
 - [ ] `algebradx check-q` on the final Q-matrix: coverage flags resolved or documented
@@ -54,5 +54,5 @@ history before submission:
 - [ ] Figures regenerated with `python code/06_figures_stats.py --final`
 - [ ] AI-assistance disclosure in `paper/paper.md` is accurate (JOSS requires it)
 - [ ] No TIMSS/PISA microdata or student-level outputs anywhere in the repository (`git status`, `.gitignore`)
-- [ ] `python tools/publish_gate.py . --allow-draft-in src/ tests/ code/ tools/` passes (code is excluded only because array indexing like `x[n]` trips the placeholder pattern; every remaining blocker is real)
+- [ ] `python tools/publish_gate.py . --allow-draft-in src/ tests/ code/ tools/ paper/in_preparation/ data/` passes (code folders are excluded because array indexing trips the placeholder pattern; the in-preparation preprint is excluded because it is not part of the release)
 - [ ] Evidence-log row written the day of release

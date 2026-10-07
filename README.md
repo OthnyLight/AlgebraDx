@@ -1,6 +1,6 @@
 # AlgebraDx
 
-**Status:** DRAFT v0.1.0 (unverified — see `docs/VERIFY_CHECKLIST.md`) | **Maintainer:** Othniel [VERIFY surname], ORCID [VERIFY ORCID] | **License:** code MIT; docs, Q-matrix and figures CC BY 4.0
+**Status:** v0.1.0, released 2026-10-07 (software, skill dictionary and Q-matrix v0.1; US TIMSS results to follow) | **Maintainer:** Othniel [VERIFY surname], ORCID [VERIFY ORCID] | **License:** code MIT; docs, Q-matrix and figures CC BY 4.0
 
 AlgebraDx reads a student's answers on an algebra test and reports **which specific skills
 they have and have not mastered** — rational-number operations, equivalent expressions,
@@ -33,8 +33,8 @@ Dependencies: numpy, scipy, pandas. No compiled extensions — it even reads the
 ## Install
 
 ```bash
-git clone https://github.com/[VERIFY github user]/algebradx
-cd algebradx
+git clone https://github.com/OthnyLight/AlgebraDx
+cd AlgebraDx
 pip install -e ".[test]"          # add ,data for the TIMSS/PISA scripts, ,figures for plots
 pytest                            # or: python tests/run_tests.py
 ```
@@ -91,7 +91,7 @@ python code/02_extract_us.py --inspect          # check variable names against t
 python code/02_extract_us.py                    # US rows, math items, scored 0/1/missing
 python code/03b_qmatrix_draft_v01.py           # the v0.1 expert-draft Q-matrix (164 items)
 #   ... rule on every row: see qmatrix/README.md ...
-python code/04_fit.py --source timss2023 --qmatrix qmatrix/qmatrix_timss_draft_v01.csv --merge A09:A05
+python code/04_fit.py --source timss2023 --qmatrix qmatrix/qmatrix_timss_v01.csv --merge A09:A05
 python code/06_figures_stats.py                 # figures + paper/stats.json
 python code/07_build_paper.py                   # manuscript text with numbers from stats.json
 ```
@@ -125,7 +125,7 @@ estimates far better than individual student profiles.
 
 ## Citation
 
-See `CITATION.cff`. DOI: [VERIFY DOI after first Zenodo release]
+See `CITATION.cff`. DOI: minted on the first Zenodo release.
 
 AI assistance: the code, tests and documentation were drafted with Claude (Anthropic) and
 reviewed, verified and revised by the author; see `paper/paper.md`.
