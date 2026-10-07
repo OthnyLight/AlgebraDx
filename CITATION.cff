@@ -5,10 +5,8 @@ title: "AlgebraDx: diagnostic classification models for skill-level diagnosis of
 version: "0.1.0"
 date-released: "2026-10-07"
 authors:
-  - family-names: "[VERIFY surname]"
-    given-names: "Othniel"
-    orcid: "https://orcid.org/[VERIFY ORCID]"
-    affiliation: "[VERIFY affiliation]"
+  - given-names: "Othniel"
+    alias: "OthnyLight"
 license: MIT
 repository-code: "https://github.com/OthnyLight/AlgebraDx"
 keywords:

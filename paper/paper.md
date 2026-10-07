@@ -9,11 +9,10 @@ tags:
   - TIMSS
   - PISA
 authors:
-  - name: Othniel [VERIFY surname]
-    orcid: [VERIFY ORCID]
+  - name: Othniel
     affiliation: 1
 affiliations:
-  - name: [VERIFY affiliation]
+  - name: Independent researcher
     index: 1
 date: 7 October 2026
 bibliography: paper.bib

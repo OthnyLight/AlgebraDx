@@ -1,15 +1,25 @@
 {
-  "_comment": "Single source of truth for author details. README, CITATION.cff, paper.md, Zenodo creators and commit identity read from here. Replace every [VERIFY ...] before release.",
+  "_comment": "Single source of truth for author details. README, CITATION.cff, paper.md, Zenodo creators and commit identity read from here.",
   "authors": [
     {
-      "name": "Othniel [VERIFY surname]",
-      "family": "[VERIFY surname]",
+      "name": "Othniel",
+      "family": "",
       "given": "Othniel",
-      "orcid": "[VERIFY ORCID 0000-0000-0000-0000]",
+      "orcid": "",
       "email": "othnylight@gmail.com",
-      "affiliation": "[VERIFY affiliation, e.g. Independent Researcher, Indianapolis, Indiana, USA]",
-      "roles": ["Conceptualization", "Methodology", "Software", "Validation", "Formal analysis", "Data curation", "Writing - original draft", "Writing - review and editing"],
-      "corresponding": true
+      "affiliation": "",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Software",
+        "Validation",
+        "Formal analysis",
+        "Data curation",
+        "Writing - original draft",
+        "Writing - review and editing"
+      ],
+      "corresponding": true,
+      "github": "OthnyLight"
     }
   ],
   "collaborators": []
