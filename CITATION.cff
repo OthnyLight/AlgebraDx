@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use AlgebraDx, please cite it as below."
+type: software
+title: "AlgebraDx: diagnostic classification models for skill-level diagnosis of algebra readiness"
+version: "0.1.0"
+date-released: "[VERIFY release date YYYY-MM-DD]"
+authors:
+  - family-names: "[VERIFY surname]"
+    given-names: "Othniel"
+    orcid: "https://orcid.org/[VERIFY ORCID]"
+    affiliation: "[VERIFY affiliation]"
+license: MIT
+repository-code: "https://github.com/[VERIFY github user]/algebradx"
+doi: "[VERIFY DOI after Zenodo release]"
+keywords:
+  - cognitive diagnosis
+  - diagnostic classification models
+  - G-DINA
+  - LCDM
+  - Q-matrix
+  - TIMSS
+  - PISA
+  - algebra readiness
+  - educational measurement

@@ -1,0 +1,66 @@
+{
+  "source": "synthetic",
+  "data_label": "synthetic data (not real students)",
+  "n_students": 8000,
+  "n_items": 96,
+  "K": 12,
+  "items_per_student_mean": 27.4,
+  "final_model": "Mixed (Wald)",
+  "srmsr": 0.026,
+  "p_adj_correlation": 1.0,
+  "pattern_accuracy": 0.224,
+  "attribute_accuracy_min": 0.835,
+  "attribute_accuracy_max": 0.905,
+  "attribute_accuracy_mean": 0.869,
+  "prevalence_min": 0.269,
+  "prevalence_max": 0.723,
+  "q_items_flagged": 0,
+  "item_model_counts": {
+    "LLM": 20,
+    "ACDM": 13,
+    "RRUM": 12
+  },
+  "bic_best_model": "Mixed (Wald)",
+  "gdina_seconds": null,
+  "prevalence_se_max": 0.012,
+  "n_replicates": 30,
+  "prevalence_abs_error_max": 0.064,
+  "true_pattern_agreement": 0.21,
+  "true_attribute_agreement_mean": 0.863,
+  "item_prob_rmse_vs_truth": 0.122,
+  "recovery": {
+    "A_reps": 20,
+    "A_rmse_by_N": {
+      "500": 0.116,
+      "1000": 0.083,
+      "2000": 0.053,
+      "4000": 0.038
+    },
+    "A_attr_agreement_by_N": {
+      "500": 0.924,
+      "1000": 0.935,
+      "2000": 0.938,
+      "4000": 0.939
+    },
+    "A_pred_accuracy_by_N": {
+      "500": 0.946,
+      "1000": 0.945,
+      "2000": 0.942,
+      "4000": 0.941
+    },
+    "A_pattern_agreement_by_N": {
+      "500": 0.674,
+      "1000": 0.715,
+      "2000": 0.729,
+      "4000": 0.729
+    },
+    "B_reps": 3,
+    "B_items_per_student": 27.4,
+    "B_rmse_P": 0.106,
+    "B_prevalence_error_max": 0.056,
+    "B_attr_agreement": 0.843,
+    "B_pred_accuracy": 0.855,
+    "B_pattern_agreement": 0.172,
+    "B_seconds": 94.0
+  }
+}

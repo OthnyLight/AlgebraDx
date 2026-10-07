@@ -1,0 +1,16 @@
+# restricted microdata: never commit or deposit (IEA / OECD terms)
+data/raw/*
+!data/raw/PROVENANCE.txt
+data/extract/
+results/timss*/student_scores.csv.gz
+results/pisa*/student_scores.csv.gz
+# local
+__pycache__/
+*.egg-info/
+.venv/
+.env
+*.part
+.DS_Store
+results/synthetic_run.log
+results/recovery_run.log
+data/processed/*.csv.gz

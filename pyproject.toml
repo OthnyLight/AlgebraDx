@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "algebradx"
+version = "0.1.0"
+description = "Diagnostic classification models (G-DINA, LCDM and reduced models) for skill-level diagnosis of algebra readiness, with survey weights and rotated-booklet designs"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "scipy>=1.10", "pandas>=2.0"]
+keywords = ["cognitive diagnosis", "diagnostic classification models", "G-DINA", "LCDM", "TIMSS", "PISA", "psychometrics", "algebra"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Education",
+  "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+[project.optional-dependencies]
+data = ["pyreadstat>=1.2", "openpyxl>=3.1", "requests>=2.31"]
+figures = ["matplotlib>=3.7"]
+test = ["pytest>=7"]
+
+[project.scripts]
+algebradx = "algebradx.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

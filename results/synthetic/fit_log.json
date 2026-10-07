@@ -1,0 +1,123 @@
+{
+  "source": "synthetic",
+  "n_students": 8000,
+  "n_items": 96,
+  "K": 12,
+  "items_per_student_mean": 27.441875,
+  "coverage": [
+    {
+      "attribute": "A01",
+      "n_items": 14,
+      "n_single_attribute_items": 6,
+      "flag": ""
+    },
+    {
+      "attribute": "A02",
+      "n_items": 15,
+      "n_single_attribute_items": 5,
+      "flag": ""
+    },
+    {
+      "attribute": "A03",
+      "n_items": 13,
+      "n_single_attribute_items": 3,
+      "flag": ""
+    },
+    {
+      "attribute": "A04",
+      "n_items": 13,
+      "n_single_attribute_items": 3,
+      "flag": ""
+    },
+    {
+      "attribute": "A05",
+      "n_items": 10,
+      "n_single_attribute_items": 4,
+      "flag": ""
+    },
+    {
+      "attribute": "A06",
+      "n_items": 14,
+      "n_single_attribute_items": 3,
+      "flag": ""
+    },
+    {
+      "attribute": "A07",
+      "n_items": 18,
+      "n_single_attribute_items": 4,
+      "flag": ""
+    },
+    {
+      "attribute": "A08",
+      "n_items": 15,
+      "n_single_attribute_items": 7,
+      "flag": ""
+    },
+    {
+      "attribute": "A09",
+      "n_items": 13,
+      "n_single_attribute_items": 2,
+      "flag": ""
+    },
+    {
+      "attribute": "A10",
+      "n_items": 14,
+      "n_single_attribute_items": 3,
+      "flag": ""
+    },
+    {
+      "attribute": "A11",
+      "n_items": 16,
+      "n_single_attribute_items": 7,
+      "flag": ""
+    },
+    {
+      "attribute": "A12",
+      "n_items": 14,
+      "n_single_attribute_items": 4,
+      "flag": ""
+    }
+  ],
+  "identifiability": {
+    "complete_identity_block": true,
+    "each_attribute_three_items": true,
+    "distinct_columns_after_identity": true,
+    "sufficient_conditions_met": true
+  },
+  "true_pattern_agreement": 0.21025,
+  "item_prob_rmse_vs_truth": 0.12196580614467298,
+  "final_model": "Mixed (Wald)",
+  "summary": {
+    "n_students": 8000,
+    "n_items": 96,
+    "K": 12,
+    "n_profiles": 4096,
+    "structural": "loglinear2",
+    "item_models": {
+      "GDINA": 51,
+      "LLM": 20,
+      "ACDM": 13,
+      "RRUM": 12
+    },
+    "loglik": -136143.168168272,
+    "n_params": 343,
+    "aic": 272972.336336544,
+    "bic": 275368.9448460311,
+    "converged": true,
+    "iterations": 47,
+    "seconds": 38.81
+  },
+  "srmsr": 0.026265359140783227,
+  "max_z_correlation": 3.208611392760397,
+  "p_adj_correlation": 1.0,
+  "max_z_log_odds": 3.1337891544614753,
+  "p_adj_log_odds": 1.0,
+  "pattern_accuracy": 0.22399353950358084,
+  "pattern_consistency": 0.11004023349281505,
+  "q_items_flagged": 0,
+  "item_model_counts": {
+    "LLM": 20,
+    "ACDM": 13,
+    "RRUM": 12
+  }
+}
