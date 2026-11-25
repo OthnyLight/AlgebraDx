@@ -2,12 +2,12 @@
   "_comment": "Single source of truth for author details. README, CITATION.cff, paper.md, Zenodo creators and commit identity read from here.",
   "authors": [
     {
-      "name": "Othniel",
-      "family": "",
-      "given": "Othniel",
-      "orcid": "",
+      "name": "Othniel Iyassa Sa'anga",
+      "family": "Sa'anga",
+      "given": "Othniel Iyassa",
+      "orcid": "0009-0002-6113-6158",
       "email": "othnylight@gmail.com",
-      "affiliation": "",
+      "affiliation": "Independent Researcher, Indianapolis, IN, USA",
       "roles": [
         "Conceptualization",
         "Methodology",

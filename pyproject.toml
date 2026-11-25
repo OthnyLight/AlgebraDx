@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "algebradx"
-version = "0.1.0"
+version = "0.1.1"
 description = "Diagnostic classification models (G-DINA, LCDM and reduced models) for skill-level diagnosis of algebra readiness, with survey weights and rotated-booklet designs"
 readme = "README.md"
 license = {text = "MIT"}

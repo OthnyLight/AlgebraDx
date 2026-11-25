@@ -2,11 +2,14 @@ cff-version: 1.2.0
 message: "If you use AlgebraDx, please cite it as below."
 type: software
 title: "AlgebraDx: diagnostic classification models for skill-level diagnosis of algebra readiness"
-version: "0.1.0"
-date-released: "2026-10-07"
+version: "0.1.1"
+date-released: "2026-11-25"
 authors:
-  - given-names: "Othniel"
+  - family-names: "Sa'anga"
+    given-names: "Othniel Iyassa"
     alias: "OthnyLight"
+    orcid: "https://orcid.org/0009-0002-6113-6158"
+    affiliation: "Independent Researcher, Indianapolis, IN, USA"
 license: MIT
 repository-code: "https://github.com/OthnyLight/AlgebraDx"
 keywords:

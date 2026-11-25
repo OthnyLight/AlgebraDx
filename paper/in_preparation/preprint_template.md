@@ -1,6 +1,6 @@
 ---
 title: "Which algebra skills are US eighth graders missing? Diagnostic classification of TIMSS responses with a twelve-skill readiness Q-matrix"
-author: "Othniel [VERIFY surname] ([VERIFY affiliation]; ORCID [VERIFY ORCID])"
+author: "Othniel Iyassa Sa'anga (Independent Researcher, Indianapolis, IN, USA; ORCID 0009-0002-6113-6158)"
 status: "In preparation — sections 1–5 drafted; section 6 (US TIMSS results) awaits the real-data fits. Not for citation."
 ---
 

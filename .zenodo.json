@@ -1,0 +1,32 @@
+{
+  "upload_type": "software",
+  "license": "mit",
+  "title": "AlgebraDx: diagnostic classification models for skill-level diagnosis of algebra readiness",
+  "description": "<p>AlgebraDx is a Python package that reports which specific algebra skills a student has and has not mastered, instead of one overall score. It fits diagnostic classification (cognitive diagnosis) models in the G-DINA family, including the LCDM, DINA, DINO, A-CDM, LLM and R-RUM as item-level special cases, to large-scale assessment data with rotated booklets, sampling weights and TIMSS jackknife or PISA Fay-BRR replicate weights.</p><p>It includes Q-matrix identifiability checks and empirical validation, item-level Wald tests, classification reliability, per-student mastery reports, a drafted twelve-skill attribute dictionary for algebra readiness, and a pipeline for the US TIMSS 2019/2023 grade-8 and PISA 2022 samples. Code MIT; documentation, Q-matrix and figures CC BY 4.0.</p>",
+  "keywords": [
+    "cognitive diagnosis",
+    "diagnostic classification models",
+    "G-DINA",
+    "LCDM",
+    "Q-matrix",
+    "TIMSS",
+    "PISA",
+    "algebra readiness",
+    "educational measurement",
+    "Python"
+  ],
+  "creators": [
+    {
+      "name": "Sa'anga, Othniel Iyassa",
+      "orcid": "0009-0002-6113-6158",
+      "affiliation": "Independent Researcher, Indianapolis, IN, USA"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/OthnyLight/AlgebraDx",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

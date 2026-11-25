@@ -1,6 +1,6 @@
 # AlgebraDx
 
-**Status:** v0.1.0, released 2026-10-07 (software, skill dictionary and Q-matrix v0.1; US TIMSS results to follow) | **Maintainer:** Othniel ([@OthnyLight](https://github.com/OthnyLight)) | **License:** code MIT; docs, Q-matrix and figures CC BY 4.0
+**Status:** v0.1.1, released 2026-11-25 (software, skill dictionary and Q-matrix v0.1; US TIMSS results to follow) | **Maintainer:** Othniel Iyassa Sa'anga ([@OthnyLight](https://github.com/OthnyLight), [ORCID 0009-0002-6113-6158](https://orcid.org/0009-0002-6113-6158)) | **License:** code MIT; docs, Q-matrix and figures CC BY 4.0
 
 AlgebraDx reads a student's answers on an algebra test and reports **which specific skills
 they have and have not mastered** — rational-number operations, equivalent expressions,
