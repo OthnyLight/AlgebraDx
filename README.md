@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24519238.svg)](https://doi.org/10.5281/zenodo.24519238)
+
 # AlgebraDx
 
 **Status:** v0.1.1, released 2026-11-25 (software, skill dictionary and Q-matrix v0.1; US TIMSS results to follow) | **Maintainer:** Othniel Iyassa Sa'anga ([@OthnyLight](https://github.com/OthnyLight), [ORCID 0009-0002-6113-6158](https://orcid.org/0009-0002-6113-6158)) | **License:** code MIT; docs, Q-matrix and figures CC BY 4.0
@@ -125,7 +127,7 @@ estimates far better than individual student profiles.
 
 ## Citation
 
-See `CITATION.cff`. DOI: minted on the first Zenodo release.
+See `CITATION.cff`. Archived on Zenodo: [doi:10.5281/zenodo.24519238](https://doi.org/10.5281/zenodo.24519238) (all versions; v0.1.1 is [doi:10.5281/zenodo.24519549](https://doi.org/10.5281/zenodo.24519549)).
 
 AI assistance: the code, tests and documentation were drafted with Claude (Anthropic) and
 reviewed, verified and revised by the author; see `paper/paper.md`.

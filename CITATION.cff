@@ -4,6 +4,7 @@ type: software
 title: "AlgebraDx: diagnostic classification models for skill-level diagnosis of algebra readiness"
 version: "0.1.1"
 date-released: "2026-11-25"
+doi: "10.5281/zenodo.24519238"
 authors:
   - family-names: "Sa'anga"
     given-names: "Othniel Iyassa"
@@ -22,3 +23,10 @@ keywords:
   - PISA
   - algebra readiness
   - educational measurement
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24519238"
+    description: "Zenodo concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.24519549"
+    description: "Zenodo DOI for v0.1.1"
