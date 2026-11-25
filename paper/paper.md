@@ -9,10 +9,11 @@ tags:
   - TIMSS
   - PISA
 authors:
-  - name: Othniel
+  - name: Othniel Iyassa Sa'anga
+    orcid: 0009-0002-6113-6158
     affiliation: 1
 affiliations:
-  - name: Independent researcher
+  - name: Independent Researcher, Indianapolis, IN, USA
     index: 1
 date: 7 October 2026
 bibliography: paper.bib
